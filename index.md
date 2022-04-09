@@ -1,5 +1,14 @@
 # Butelkowa uprawa hydroponiczna
 
+Ten artykuł powstał na podstawie moich pierwszych, bardzo amatorskich - żeby nie powiedzieć - prymitywnych doświadczeń z uprawą roślin bez gleby, bez ogródka, w mieszkaniu w bloku. Jego celem jest pokazanie Tobie, drogi czytelniku, że hydroponika w domowej skali nie jest niczym skomplikowanym, ba, zaryzykowałbym nawet stwierdzenie, że jest prostsza niż uprawa w ziemi.
+
+Póki co, w moich butelkach rośnie:
+- sałata (rzymska i siewna)
+- rukola (rokietta siewna)
+- bazylia
+- roszponka
+- mięta pieprzowa
+
 ![Ewolucja, Morfeuszu.](./pics/parapet.jpg)
 
 ## Teoria
