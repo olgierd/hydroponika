@@ -1,6 +1,6 @@
 # Butelkowa uprawa hydroponiczna
 
-![Kiełkująca sałata w podłożu z keramzytu](./pics/parapet.jpg)
+![Ewolucja, Morfeuszu.](./pics/parapet.jpg)
 
 ## Teoria
 
