@@ -29,6 +29,8 @@ Najprostszym, według mnie, sposobem uprawy hydroponicznej jest metoda Kratky'eg
 
 Istnieją systemy hydroponiczne typu DWC (deep water culture - hodowla w głębokiej wodzie), gdzie całość korzeni znajduje się pod wodą - ale woda jest ciągle napowietrzana z wykorzystaniem pomp. Prosta idea, ale wymagająca jednak dodatkowego osprzętu i zasilania. Zostańmy więc przy całkowicie pasywnej metodzie Kratky'ego, gdzie górna część korzeni ma dostęp do atmosferycznego tlenu, a dolna - wody i rozpuszczonego w niej nawozu.
 
+![Kratky + powietrze = DWC.](./pics/kratky-vs-dwc.jpg)
+
 W idealnej wersji metody Kratky'ego, zbiornik którego użyjemy do hodowli powinien zapewnić ilość wody wystarczającą na cały cykl rozwojowy rośliny. Dla sałaty jest to pomiędzy 3 i 6 litrów na jedną roślinę. Łatwo znaleźć taki zbiornik, ale na pewno nie jest on kompatybilny z hodowlą parapetową. Trzeba się więc pogodzić z faktem, że stosując butelki lub inne pojemniki o mniejszej pojemności, co jakiś czas trzeba będzie uzupełnić płyn. Jest to o tyle łatwiejsze od podlewania roślin hodowanych w glebie, że nie ma obaw o dostarczenie zbyt małej lub zbyt dużej ilości wody - a sama częstotliwość uzupełniania roztworu jest kilkukrotnie mniejsza. Młodym roślinom poradzenie sobie z pierwszą butelką może zająć nawet ponad miesiąc. Z rozbudowanym system korzeniowym sięgającym aż do dna i przy mocnym świetle, sałata jest w stanie wciągnąć pół litra w ok. 1,5 tygodnia.
 
 ### Podstawowe parametry roztworu - EC i TDS
